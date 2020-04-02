@@ -1,2 +1,6 @@
 prev_codebase/
+.idea/
+geometry/
+venv/
+.ipynb_checkpoints/
 
